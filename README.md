@@ -16,7 +16,7 @@ https://youtu.be/GBiDRLcp8Yo
 Credits to me and all FiveM community.
 
 
-Here is how to add in your qb-radialmenu
+Here is how to add in your qb-radialmenu/config.lua
 
 ![image](https://user-images.githubusercontent.com/16532389/236545252-f35b2b6d-b4f9-4aa2-9f88-56f68f46f7a6.png)
 
