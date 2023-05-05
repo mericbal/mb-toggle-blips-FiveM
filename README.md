@@ -2,6 +2,11 @@
 
 Here is a small script for toggling on &amp; off in game blips.
 
+You can manage all blips with this script. but you need to turn off the original qb-core blips on your own.
+For example , I went ahead and turned off all blip for qb-banking in my server and I added them in this script to make them toggleable.. 
+I have done the same thing for qb-clothing, qb-garages, qb-shops, jim-mechanic and so on.
+
+
 Dependencies 
 
 qb-core,
