@@ -11,3 +11,6 @@ qb-radialmenu
 Here is the preview
 
 https://youtu.be/GBiDRLcp8Yo
+
+
+Credits to me and all FiveM community.
